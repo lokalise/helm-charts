@@ -1,0 +1,48 @@
+apiVersion: v1
+entries:
+  cronjob:
+  - apiVersion: v1
+    created: "2022-08-23T12:40:41.581127529Z"
+    digest: 03f855cd8d685f56873090e991b5b6642b50754414a99b44dd826cb9e74a55c0
+    keywords:
+    - cronjob
+    - helm
+    name: cronjob
+    urls:
+    - https://github.com/lokalise/helm-charts/releases/download/cronjob-1.0.0/cronjob-1.0.0.tgz
+    version: 1.0.0
+  cronjob-multi:
+  - apiVersion: v1
+    created: "2022-08-23T12:40:41.719152058Z"
+    digest: 4a60dfdec50b3f833a9983bba4ddd4f2f7ec5d0512c9d8783ae3f196d650f440
+    keywords:
+    - cronjob
+    - cronjob-multi
+    - helm
+    name: cronjob-multi
+    urls:
+    - https://github.com/lokalise/helm-charts/releases/download/cronjob-multi-1.0.0/cronjob-multi-1.0.0.tgz
+    version: 1.0.0
+  deployment:
+  - apiVersion: v1
+    created: "2022-08-23T12:40:41.859967826Z"
+    digest: 3724f800f0d2a3a125dbee8430f443637433240c725687f5428b76d762736613
+    keywords:
+    - deployment
+    - helm
+    name: deployment
+    urls:
+    - https://github.com/lokalise/helm-charts/releases/download/deployment-1.0.0/deployment-1.0.0.tgz
+    version: 1.0.0
+  statefulset:
+  - apiVersion: v1
+    created: "2022-08-23T12:40:41.997230944Z"
+    digest: cc03c9490e550120a49df24845f04315569b25aad3e40bb38e80391f18654943
+    keywords:
+    - statefulset
+    - helm
+    name: statefulset
+    urls:
+    - https://github.com/lokalise/helm-charts/releases/download/statefulset-1.0.0/statefulset-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-08-23T12:40:41.997243944Z"
