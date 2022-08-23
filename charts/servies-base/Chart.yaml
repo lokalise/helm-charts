@@ -1,0 +1,11 @@
+apiVersion: v2
+name: services-base
+version: 1.0.0
+description: Base chart for Lokalise services
+keywords:
+  - base
+  - helm
+sources:
+  - https://github.com/TODO
+maintainers:
+  - name: Platform Team
